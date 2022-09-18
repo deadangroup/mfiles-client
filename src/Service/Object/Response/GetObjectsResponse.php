@@ -1,14 +1,14 @@
 <?php
 
-namespace Herufi\MFiles\Service\Object\Response;
+namespace Deadan\MFiles\Service\Object\Response;
 
-use Herufi\MFiles\Model\Object\MFilesObject;
-use Herufi\MFiles\Service\Response\BaseResponse;
+use Deadan\MFiles\Model\Object\MFilesObject;
+use Deadan\MFiles\Service\Response\BaseResponse;
 
 /**
  * Class GetObjectsResponse
  *
- * @package Herufi\MFiles\Service\Object\Response
+ * @package Deadan\MFiles\Service\Object\Response
  */
 class GetObjectsResponse extends BaseResponse
 {

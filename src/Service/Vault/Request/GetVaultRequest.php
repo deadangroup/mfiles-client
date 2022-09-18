@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Service\Vault\Request;
+namespace Deadan\MFiles\Service\Vault\Request;
 
-use Herufi\MFiles\Service\MFilesRequestInterface;
+use Deadan\MFiles\Service\MFilesRequestInterface;
 
 /**
  * Class GetVaultRequest
  *
- * @package Herufi\MFiles\Service\Vault\Request
+ * @package Deadan\MFiles\Service\Vault\Request
  */
 class GetVaultRequest implements MFilesRequestInterface
 {

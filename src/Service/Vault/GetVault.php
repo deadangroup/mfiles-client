@@ -1,18 +1,18 @@
 <?php
 
-namespace Herufi\MFiles\Service\Vault;
+namespace Deadan\MFiles\Service\Vault;
 
-use Herufi\MFiles\Service\MFilesGetService;
-use Herufi\MFiles\Service\MFilesPostService;
-use Herufi\MFiles\Service\MFilesRequestInterface;
-use Herufi\MFiles\Service\MFilesResponseInterface;
-use Herufi\MFiles\Service\Vault\Request\GetVaultRequest;
-use Herufi\MFiles\Service\Vault\Response\GetVaultResponse;
+use Deadan\MFiles\Service\MFilesGetService;
+use Deadan\MFiles\Service\MFilesPostService;
+use Deadan\MFiles\Service\MFilesRequestInterface;
+use Deadan\MFiles\Service\MFilesResponseInterface;
+use Deadan\MFiles\Service\Vault\Request\GetVaultRequest;
+use Deadan\MFiles\Service\Vault\Response\GetVaultResponse;
 
 /**
  * Class GetVault
  *
- * @package Herufi\MFiles\Service\Vault
+ * @package Deadan\MFiles\Service\Vault
  */
 class GetVault extends MFilesGetService
 {

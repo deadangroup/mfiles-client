@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Service\Exception;
+namespace Deadan\MFiles\Service\Exception;
 
 use Exception;
 
 /**
  * Class MFilesException
  *
- * @package Herufi\MFiles\Service\Exception
+ * @package Deadan\MFiles\Service\Exception
  */
 class MFilesException extends Exception
 {

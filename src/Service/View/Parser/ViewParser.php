@@ -1,19 +1,19 @@
 <?php
 
-namespace Herufi\MFiles\Service\View\Parser;
+namespace Deadan\MFiles\Service\View\Parser;
 
-use Herufi\MFiles\Model\Folder\MFilesPropertyFolder;
-use Herufi\MFiles\Model\Folder\MFilesTraditionalFolder;
-use Herufi\MFiles\Model\MFilesLookup;
-use Herufi\MFiles\Model\View\MFilesView;
-use Herufi\MFiles\Model\View\MFilesViewItem;
-use Herufi\MFiles\Service\Object\Parser\ObjectParser;
+use Deadan\MFiles\Model\Folder\MFilesPropertyFolder;
+use Deadan\MFiles\Model\Folder\MFilesTraditionalFolder;
+use Deadan\MFiles\Model\MFilesLookup;
+use Deadan\MFiles\Model\View\MFilesView;
+use Deadan\MFiles\Model\View\MFilesViewItem;
+use Deadan\MFiles\Service\Object\Parser\ObjectParser;
 use stdClass;
 
 /**
  * Class ViewParser
  *
- * @package Herufi\MFiles\Service\View\Parser
+ * @package Deadan\MFiles\Service\View\Parser
  */
 class ViewParser
 {

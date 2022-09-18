@@ -1,17 +1,17 @@
 <?php
 
-namespace Herufi\MFiles\Service\View\Response;
+namespace Deadan\MFiles\Service\View\Response;
 
-use Herufi\MFiles\Model\Folder\MFilesFolderUIState;
-use Herufi\MFiles\Model\View\MFilesView;
-use Herufi\MFiles\Model\View\MFilesViewItem;
-use Herufi\MFiles\Model\View\MFilesViewModeInfo;
-use Herufi\MFiles\Service\Response\BaseResponse;
+use Deadan\MFiles\Model\Folder\MFilesFolderUIState;
+use Deadan\MFiles\Model\View\MFilesView;
+use Deadan\MFiles\Model\View\MFilesViewItem;
+use Deadan\MFiles\Model\View\MFilesViewModeInfo;
+use Deadan\MFiles\Service\Response\BaseResponse;
 
 /**
  * Class GetViewsResponse
  *
- * @package Herufi\MFiles\Service\View\Response
+ * @package Deadan\MFiles\Service\View\Response
  */
 class GetViewsResponse extends BaseResponse
 {

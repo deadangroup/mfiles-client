@@ -1,6 +1,6 @@
 <?php
 
-namespace Herufi\MFiles\Service\Exception;
+namespace Deadan\MFiles\Service\Exception;
 
 use GuzzleHttp\Message\RequestInterface;
 use GuzzleHttp\Message\ResponseInterface;
@@ -8,7 +8,7 @@ use GuzzleHttp\Message\ResponseInterface;
 /**
  * Class ServiceException
  *
- * @package Herufi\MFiles\Service\Exception
+ * @package Deadan\MFiles\Service\Exception
  */
 class ServiceException extends MFilesException
 {

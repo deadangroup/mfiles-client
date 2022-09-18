@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Service\ViewItems\Response;
+namespace Deadan\MFiles\Service\ViewItems\Response;
 
-use Herufi\MFiles\Model\Folder\MFilesFolderDef;
-use Herufi\MFiles\Model\Folder\MFilesFolderUIState;
-use Herufi\MFiles\Model\View\MFilesViewItem;
-use Herufi\MFiles\Model\View\MFilesViewModeInfo;
-use Herufi\MFiles\Model\View\MFilesViewPathInfo;
-use Herufi\MFiles\Service\Response\BaseResponse;
+use Deadan\MFiles\Model\Folder\MFilesFolderDef;
+use Deadan\MFiles\Model\Folder\MFilesFolderUIState;
+use Deadan\MFiles\Model\View\MFilesViewItem;
+use Deadan\MFiles\Model\View\MFilesViewModeInfo;
+use Deadan\MFiles\Model\View\MFilesViewPathInfo;
+use Deadan\MFiles\Service\Response\BaseResponse;
 
 /**
  * Class GetItemsFromViewResponse.

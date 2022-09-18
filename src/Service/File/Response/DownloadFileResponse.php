@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Service\File\Response;
+namespace Deadan\MFiles\Service\File\Response;
 
-use Herufi\MFiles\Service\Response\BaseResponse;
+use Deadan\MFiles\Service\Response\BaseResponse;
 
 /**
  * Class DownloadFileResponse
  *
- * @package Herufi\MFiles\Service\File\Response
+ * @package Deadan\MFiles\Service\File\Response
  */
 class DownloadFileResponse extends BaseResponse
 {

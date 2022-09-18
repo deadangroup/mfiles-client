@@ -1,15 +1,15 @@
 <?php
 
-namespace Herufi\MFiles\Model\View;
+namespace Deadan\MFiles\Model\View;
 
-use Herufi\MFiles\Model\Folder\MFilesPropertyFolder;
-use Herufi\MFiles\Model\Folder\MFilesTraditionalFolder;
-use Herufi\MFiles\Model\Object\MFilesObject;
+use Deadan\MFiles\Model\Folder\MFilesPropertyFolder;
+use Deadan\MFiles\Model\Folder\MFilesTraditionalFolder;
+use Deadan\MFiles\Model\Object\MFilesObject;
 
 /**
  * Class MFilesViewItem
  *
- * @package Herufi\MFiles\Model\View
+ * @package Deadan\MFiles\Model\View
  */
 class MFilesViewItem
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Herufi\MFiles\Model\Object;
+namespace Deadan\MFiles\Model\Object;
 
 /**
  * Class MFilesObjVer.

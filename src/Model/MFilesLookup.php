@@ -1,6 +1,6 @@
 <?php
 
-namespace Herufi\MFiles\Model;
+namespace Deadan\MFiles\Model;
 
 /**
  * Class MFilesLookup.

@@ -1,19 +1,19 @@
 <?php
 
-namespace Herufi\MFiles\Service\Search\Response;
+namespace Deadan\MFiles\Service\Search\Response;
 
-use Herufi\MFiles\Model\Object\MFilesObject;
-use Herufi\MFiles\Service\Response\BaseResponse;
+use Deadan\MFiles\Model\Object\MFilesObject;
+use Deadan\MFiles\Service\Response\BaseResponse;
 
 /**
  * Class SearchResponse
  *
- * @package Herufi\MFiles\Service\Search\Response
+ * @package Deadan\MFiles\Service\Search\Response
  */
 class SearchResponse extends BaseResponse
 {
     /** @var
-     * \Herufi\MFiles\Model\Object\MFilesObject[]
+     * \Deadan\MFiles\Model\Object\MFilesObject[]
      */
     private $objects;
 

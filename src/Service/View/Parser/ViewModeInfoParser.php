@@ -1,14 +1,14 @@
 <?php
 
-namespace Herufi\MFiles\Service\View\Parser;
+namespace Deadan\MFiles\Service\View\Parser;
 
-use Herufi\MFiles\Model\View\MFilesViewModeInfo;
+use Deadan\MFiles\Model\View\MFilesViewModeInfo;
 use stdClass;
 
 /**
  * Class ViewModeInfoParser
  *
- * @package Herufi\MFiles\Service\View\Parser
+ * @package Deadan\MFiles\Service\View\Parser
  */
 class ViewModeInfoParser
 {

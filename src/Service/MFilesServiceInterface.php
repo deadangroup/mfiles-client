@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Service;
+namespace Deadan\MFiles\Service;
 
-use Herufi\MFiles\Service\Exception\MFilesException;
+use Deadan\MFiles\Service\Exception\MFilesException;
 
 /**
  * Interface MFilesServiceInterface
  *
- * @package Herufi\MFiles\Service
+ * @package Deadan\MFiles\Service
  */
 interface MFilesServiceInterface
 {

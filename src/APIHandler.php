@@ -1,6 +1,6 @@
 <?php
 
-namespace Herufi\MFiles;
+namespace Deadan\MFiles;
 
 use Illuminate\Mail\Message;
 use Illuminate\Support\Facades\Http;
@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Http;
 /**
  * Class APIHandler
  *
- * @package Herufi\MFiles
+ * @package Deadan\MFiles
  */
 class APIHandler
 {

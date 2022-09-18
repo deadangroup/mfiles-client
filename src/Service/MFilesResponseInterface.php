@@ -1,11 +1,11 @@
 <?php
 
-namespace Herufi\MFiles\Service;
+namespace Deadan\MFiles\Service;
 
 /**
  * Interface MFilesResponseInterface
  *
- * @package Herufi\MFiles\Service
+ * @package Deadan\MFiles\Service
  */
 interface MFilesResponseInterface
 {

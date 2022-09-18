@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Service\Vault\Response;
+namespace Deadan\MFiles\Service\Vault\Response;
 
-use Herufi\MFiles\Service\Response\BaseResponse;
+use Deadan\MFiles\Service\Response\BaseResponse;
 
 /**
  * Class GetVaultResponse
  *
- * @package Herufi\MFiles\Service\Vault\Response
+ * @package Deadan\MFiles\Service\Vault\Response
  */
 class GetVaultResponse extends BaseResponse
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace Herufi\MFiles\Model\Error;
+namespace Deadan\MFiles\Model\Error;
 
 /**
  * Class MFilesError
  *
- * @package Herufi\MFiles\Model\Error
+ * @package Deadan\MFiles\Model\Error
  */
 class MFilesError
 {

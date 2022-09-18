@@ -1,17 +1,17 @@
 <?php
 
-namespace Herufi\MFiles\Service\Object\Parser;
+namespace Deadan\MFiles\Service\Object\Parser;
 
 use DateTime;
-use Herufi\MFiles\Model\MFilesFile;
-use Herufi\MFiles\Model\Object\MFilesObject;
-use Herufi\MFiles\Model\Object\MFilesObjVer;
+use Deadan\MFiles\Model\MFilesFile;
+use Deadan\MFiles\Model\Object\MFilesObject;
+use Deadan\MFiles\Model\Object\MFilesObjVer;
 use stdClass;
 
 /**
  * Class ObjectParser
  *
- * @package Herufi\MFiles\Service\Object\Parser
+ * @package Deadan\MFiles\Service\Object\Parser
  */
 class ObjectParser
 {

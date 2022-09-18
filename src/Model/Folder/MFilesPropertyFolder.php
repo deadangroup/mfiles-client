@@ -1,8 +1,8 @@
 <?php
 
-namespace Herufi\MFiles\Model\Folder;
+namespace Deadan\MFiles\Model\Folder;
 
-use Herufi\MFiles\Model\MFilesLookup;
+use Deadan\MFiles\Model\MFilesLookup;
 
 /**
  * Class MFilesPropertyFolder.

@@ -1,22 +1,22 @@
 <?php
 
-namespace Herufi\MFiles\Service\Search;
+namespace Deadan\MFiles\Service\Search;
 
 use DateTime;
-use Herufi\MFiles\Model\MFilesFile;
-use Herufi\MFiles\Model\Object\MFilesObject;
-use Herufi\MFiles\Model\Object\MFilesObjVer;
-use Herufi\MFiles\Service\MFilesGetService;
-use Herufi\MFiles\Service\MFilesRequestInterface;
-use Herufi\MFiles\Service\MFilesResponseInterface;
-use Herufi\MFiles\Service\Search\Request\SearchRequest;
-use Herufi\MFiles\Service\Search\Response\SearchResponse;
+use Deadan\MFiles\Model\MFilesFile;
+use Deadan\MFiles\Model\Object\MFilesObject;
+use Deadan\MFiles\Model\Object\MFilesObjVer;
+use Deadan\MFiles\Service\MFilesGetService;
+use Deadan\MFiles\Service\MFilesRequestInterface;
+use Deadan\MFiles\Service\MFilesResponseInterface;
+use Deadan\MFiles\Service\Search\Request\SearchRequest;
+use Deadan\MFiles\Service\Search\Response\SearchResponse;
 use stdClass;
 
 /**
  * Class Search
  *
- * @package Herufi\MFiles\Service\Search
+ * @package Deadan\MFiles\Service\Search
  */
 class Search extends MFilesGetService
 {

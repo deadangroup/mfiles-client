@@ -1,17 +1,17 @@
 <?php
 
-namespace Herufi\MFiles\Service\View\Parser;
+namespace Deadan\MFiles\Service\View\Parser;
 
-use Herufi\MFiles\Model\Folder\MFilesFolderListingColumn;
-use Herufi\MFiles\Model\Folder\MFilesFolderListingColumnSorting;
-use Herufi\MFiles\Model\Folder\MFilesFolderListingUIState;
-use Herufi\MFiles\Model\Folder\MFilesFolderUIState;
+use Deadan\MFiles\Model\Folder\MFilesFolderListingColumn;
+use Deadan\MFiles\Model\Folder\MFilesFolderListingColumnSorting;
+use Deadan\MFiles\Model\Folder\MFilesFolderListingUIState;
+use Deadan\MFiles\Model\Folder\MFilesFolderUIState;
 use stdClass;
 
 /**
  * Class FolderUIStateParser
  *
- * @package Herufi\MFiles\Service\View\Parser
+ * @package Deadan\MFiles\Service\View\Parser
  */
 class FolderUIStateParser
 {

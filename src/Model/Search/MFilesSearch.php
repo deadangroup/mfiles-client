@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Model\Search;
+namespace Deadan\MFiles\Model\Search;
 
 use DateTimeInterface;
 
 /**
  * Class MFilesSearch
  *
- * @package Herufi\MFiles\Model\Search
+ * @package Deadan\MFiles\Model\Search
  */
 class MFilesSearch
 {

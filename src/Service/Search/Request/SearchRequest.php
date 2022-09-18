@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Service\Search\Request;
+namespace Deadan\MFiles\Service\Search\Request;
 
-use Herufi\MFiles\Service\MFilesRequestInterface;
+use Deadan\MFiles\Service\MFilesRequestInterface;
 
 /**
  * Class SearchRequest
  *
- * @package Herufi\MFiles\Service\Search\Request
+ * @package Deadan\MFiles\Service\Search\Request
  */
 class SearchRequest implements MFilesRequestInterface
 {

@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Model;
+namespace Deadan\MFiles\Model;
 
 use DateTimeInterface;
 
 /**
  * Class MFilesFile
  *
- * @package Herufi\MFiles\Model
+ * @package Deadan\MFiles\Model
  */
 class MFilesFile
 {

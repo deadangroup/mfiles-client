@@ -1,11 +1,11 @@
 <?php
 
-namespace Herufi\MFiles\Service\Exception;
+namespace Deadan\MFiles\Service\Exception;
 
 /**
  * Class AccessDeniedException
  *
- * @package Herufi\MFiles\Service\Exception
+ * @package Deadan\MFiles\Service\Exception
  */
 class AccessDeniedException extends ClientErrorException
 {

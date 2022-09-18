@@ -1,45 +1,45 @@
 <?php
 
-namespace Herufi\MFiles;
+namespace Deadan\MFiles;
 
-use Herufi\MFiles\Service\File\DownloadFile;
-use Herufi\MFiles\Service\File\Request\DownloadFileRequest;
-use Herufi\MFiles\Service\File\Response\DownloadFileResponse;
-use Herufi\MFiles\Service\Object\GetObjects;
-use Herufi\MFiles\Service\Object\Request\GetObjectsRequest;
-use Herufi\MFiles\Service\Search\Request\SearchRequest;
-use Herufi\MFiles\Service\Search\Response\SearchResponse;
-use Herufi\MFiles\Service\Search\Search;
-use Herufi\MFiles\Service\User\GetAuthToken;
-use Herufi\MFiles\Service\User\Request\GetAuthTokenRequest;
-use Herufi\MFiles\Service\User\Response\GetAuthTokenResponse;
-use Herufi\MFiles\Service\Vault\GetVault;
-use Herufi\MFiles\Service\Vault\Request\GetVaultRequest;
-use Herufi\MFiles\Service\Vault\Response\GetVaultResponse;
-use Herufi\MFiles\Service\View\GetViews;
-use Herufi\MFiles\Service\View\Request\GetViewsRequest;
-use Herufi\MFiles\Service\View\Response\GetViewsResponse;
-use Herufi\MFiles\Service\ViewItems\GetItemsFromView;
-use Herufi\MFiles\Service\ViewItems\Request\GetItemsFromViewRequest;
-use Herufi\MFiles\Service\ViewItems\Response\GetItemsFromViewResponse;
-use Herufi\MFiles\Service\ViewObjects\GetObjectsFromView;
-use Herufi\MFiles\Service\ViewObjects\Request\GetObjectsFromViewRequest;
+use Deadan\MFiles\Service\File\DownloadFile;
+use Deadan\MFiles\Service\File\Request\DownloadFileRequest;
+use Deadan\MFiles\Service\File\Response\DownloadFileResponse;
+use Deadan\MFiles\Service\Object\GetObjects;
+use Deadan\MFiles\Service\Object\Request\GetObjectsRequest;
+use Deadan\MFiles\Service\Search\Request\SearchRequest;
+use Deadan\MFiles\Service\Search\Response\SearchResponse;
+use Deadan\MFiles\Service\Search\Search;
+use Deadan\MFiles\Service\User\GetAuthToken;
+use Deadan\MFiles\Service\User\Request\GetAuthTokenRequest;
+use Deadan\MFiles\Service\User\Response\GetAuthTokenResponse;
+use Deadan\MFiles\Service\Vault\GetVault;
+use Deadan\MFiles\Service\Vault\Request\GetVaultRequest;
+use Deadan\MFiles\Service\Vault\Response\GetVaultResponse;
+use Deadan\MFiles\Service\View\GetViews;
+use Deadan\MFiles\Service\View\Request\GetViewsRequest;
+use Deadan\MFiles\Service\View\Response\GetViewsResponse;
+use Deadan\MFiles\Service\ViewItems\GetItemsFromView;
+use Deadan\MFiles\Service\ViewItems\Request\GetItemsFromViewRequest;
+use Deadan\MFiles\Service\ViewItems\Response\GetItemsFromViewResponse;
+use Deadan\MFiles\Service\ViewObjects\GetObjectsFromView;
+use Deadan\MFiles\Service\ViewObjects\Request\GetObjectsFromViewRequest;
 
 /**
  * Class MFilesClient
  *
- * @package Herufi\MFiles
+ * @package Deadan\MFiles
  */
 class MFilesClient
 {
     /**
-     * @var \Herufi\MFiles\APIHandler
+     * @var \Deadan\MFiles\APIHandler
      */
     private $apiHandler;
 
     /**
      * MFilesClient constructor.
-     * @param  \Herufi\MFiles\APIHandler  $apiHandler
+     * @param  \Deadan\MFiles\APIHandler  $apiHandler
      */
     public function __construct(APIHandler $apiHandler)
     {
@@ -74,7 +74,7 @@ class MFilesClient
     }
 
     /**
-     * @return \Herufi\MFiles\Service\Vault\Response\GetVaultResponse
+     * @return \Deadan\MFiles\Service\Vault\Response\GetVaultResponse
      */
     public function getVaults()
     {
@@ -87,20 +87,20 @@ class MFilesClient
     }
 
     /**
-     * @return \Herufi\MFiles\Service\Object\Response\GetObjectsResponse
+     * @return \Deadan\MFiles\Service\Object\Response\GetObjectsResponse
      */
     public function getAllDocuments()
     {
         $service = new GetObjects($this->apiHandler);
 
-        /** @var \Herufi\MFiles\Service\Object\Response\GetObjectsResponse $response */
+        /** @var \Deadan\MFiles\Service\Object\Response\GetObjectsResponse $response */
         $response = $service->call(new GetObjectsRequest());
 
         return $response;
     }
 
     /**
-     * @return \Herufi\MFiles\Service\View\Response\GetViewsResponse
+     * @return \Deadan\MFiles\Service\View\Response\GetViewsResponse
      */
     public function getRootViewItems()
     {
@@ -114,7 +114,7 @@ class MFilesClient
 
     /**
      * @param  int  $viewId
-     * @return \Herufi\MFiles\Service\ViewItems\Response\GetItemsFromViewResponse
+     * @return \Deadan\MFiles\Service\ViewItems\Response\GetItemsFromViewResponse
      */
     public function getItemsFromView(int $viewId)
     {
@@ -128,13 +128,13 @@ class MFilesClient
 
     /**
      * @param  int  $viewId
-     * @return \Herufi\MFiles\Service\ViewObjects\Response\GetObjectsFromViewResponse
+     * @return \Deadan\MFiles\Service\ViewObjects\Response\GetObjectsFromViewResponse
      */
     public function getObjectsFromView(int $viewId)
     {
         $service = new GetObjectsFromView($this->apiHandler);
 
-        /** @var \Herufi\MFiles\Service\ViewObjects\Response\GetObjectsFromViewResponse $response */
+        /** @var \Deadan\MFiles\Service\ViewObjects\Response\GetObjectsFromViewResponse $response */
         $response = $service->call(new GetObjectsFromViewRequest($viewId));
 
         return $response;
@@ -145,11 +145,11 @@ class MFilesClient
      * @param  int     $objectType
      * @param  int     $objectID
      * @param  string  $objectVersion
-     * @return \Herufi\MFiles\Service\File\Response\DownloadFileResponse
-     * @throws \Herufi\MFiles\Service\Exception\AccessDeniedException
-     * @throws \Herufi\MFiles\Service\Exception\ClientErrorException
-     * @throws \Herufi\MFiles\Service\Exception\NotFoundException
-     * @throws \Herufi\MFiles\Service\Exception\ServiceException
+     * @return \Deadan\MFiles\Service\File\Response\DownloadFileResponse
+     * @throws \Deadan\MFiles\Service\Exception\AccessDeniedException
+     * @throws \Deadan\MFiles\Service\Exception\ClientErrorException
+     * @throws \Deadan\MFiles\Service\Exception\NotFoundException
+     * @throws \Deadan\MFiles\Service\Exception\ServiceException
      */
     public function downloadFile(
         int $fileID,
@@ -167,7 +167,7 @@ class MFilesClient
 
     /**
      * @param  array  $searchRequest
-     * @return \Herufi\MFiles\Service\Search\Response\SearchResponse
+     * @return \Deadan\MFiles\Service\Search\Response\SearchResponse
      */
     public function searchResult(
         array $searchRequest
@@ -181,7 +181,7 @@ class MFilesClient
     }
 
     /**
-     * @return \Herufi\MFiles\APIHandler
+     * @return \Deadan\MFiles\APIHandler
      */
     public function getApiHandler()
     {

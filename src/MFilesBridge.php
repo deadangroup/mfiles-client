@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles;
+namespace Deadan\MFiles;
 
 use Exception;
 
 /**
  * Class MFilesBridge
  *
- * @package Herufi\MFiles
+ * @package Deadan\MFiles
  */
 class MFilesBridge
 {
@@ -26,11 +26,11 @@ class MFilesBridge
 
     /**
      * @return MFilesClient
-     * @throws \Herufi\MFiles\Service\Exception\AccessDeniedException
-     * @throws \Herufi\MFiles\Service\Exception\ClientErrorException
-     * @throws \Herufi\MFiles\Service\Exception\InvalidJsonException
-     * @throws \Herufi\MFiles\Service\Exception\NotFoundException
-     * @throws \Herufi\MFiles\Service\Exception\ServiceException
+     * @throws \Deadan\MFiles\Service\Exception\AccessDeniedException
+     * @throws \Deadan\MFiles\Service\Exception\ClientErrorException
+     * @throws \Deadan\MFiles\Service\Exception\InvalidJsonException
+     * @throws \Deadan\MFiles\Service\Exception\NotFoundException
+     * @throws \Deadan\MFiles\Service\Exception\ServiceException
      *
      * @throws Exception
      */

@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Service\File\Request;
+namespace Deadan\MFiles\Service\File\Request;
 
-use Herufi\MFiles\Service\MFilesRequestInterface;
+use Deadan\MFiles\Service\MFilesRequestInterface;
 
 /**
  * Class DownloadFileRequest
  *
- * @package Herufi\MFiles\Service\File\Request
+ * @package Deadan\MFiles\Service\File\Request
  */
 class DownloadFileRequest implements MFilesRequestInterface
 {

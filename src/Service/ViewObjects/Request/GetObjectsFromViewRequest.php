@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Service\ViewObjects\Request;
+namespace Deadan\MFiles\Service\ViewObjects\Request;
 
-use Herufi\MFiles\Service\MFilesRequestInterface;
+use Deadan\MFiles\Service\MFilesRequestInterface;
 
 /**
  * Class GetObjectsFromViewRequest
  *
- * @package Herufi\MFiles\Service\ViewObjects\Request
+ * @package Deadan\MFiles\Service\ViewObjects\Request
  */
 class GetObjectsFromViewRequest implements MFilesRequestInterface
 {

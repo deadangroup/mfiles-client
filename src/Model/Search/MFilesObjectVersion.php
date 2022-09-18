@@ -1,6 +1,6 @@
 <?php
 
-namespace Herufi\MFiles\Model\Search;
+namespace Deadan\MFiles\Model\Search;
 
 /**
  * Class ObjectVersion.

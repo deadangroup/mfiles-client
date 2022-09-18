@@ -1,19 +1,19 @@
 <?php
 
-namespace Herufi\MFiles\Service\View;
+namespace Deadan\MFiles\Service\View;
 
-use Herufi\MFiles\Service\MFilesGetService;
-use Herufi\MFiles\Service\MFilesRequestInterface;
-use Herufi\MFiles\Service\MFilesResponseInterface;
-use Herufi\MFiles\Service\View\Parser\FolderUIStateParser;
-use Herufi\MFiles\Service\View\Parser\ViewParser;
-use Herufi\MFiles\Service\View\Parser\ViewModeInfoParser;
-use Herufi\MFiles\Service\View\Response\GetViewsResponse;
+use Deadan\MFiles\Service\MFilesGetService;
+use Deadan\MFiles\Service\MFilesRequestInterface;
+use Deadan\MFiles\Service\MFilesResponseInterface;
+use Deadan\MFiles\Service\View\Parser\FolderUIStateParser;
+use Deadan\MFiles\Service\View\Parser\ViewParser;
+use Deadan\MFiles\Service\View\Parser\ViewModeInfoParser;
+use Deadan\MFiles\Service\View\Response\GetViewsResponse;
 
 /**
  * Class GetViews
  *
- * @package Herufi\MFiles\Service\View
+ * @package Deadan\MFiles\Service\View
  */
 class GetViews extends MFilesGetService
 {

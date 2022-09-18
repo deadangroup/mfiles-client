@@ -2,14 +2,14 @@
 
 declare(strict_types=1);
 
-namespace Herufi\MFiles\Service\Exception;
+namespace Deadan\MFiles\Service\Exception;
 
 use Exception;
 
 /**
  * Class ApiException
  *
- * @package Herufi\MFiles\Service\Exception
+ * @package Deadan\MFiles\Service\Exception
  */
 class ApiException extends Exception
 {

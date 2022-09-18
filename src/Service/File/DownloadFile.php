@@ -1,17 +1,17 @@
 <?php
 
-namespace Herufi\MFiles\Service\File;
+namespace Deadan\MFiles\Service\File;
 
-use Herufi\MFiles\Service\File\Request\DownloadFileRequest;
-use Herufi\MFiles\Service\File\Response\DownloadFileResponse;
-use Herufi\MFiles\Service\MFilesGetService;
-use Herufi\MFiles\Service\MFilesRequestInterface;
-use Herufi\MFiles\Service\MFilesResponseInterface;
+use Deadan\MFiles\Service\File\Request\DownloadFileRequest;
+use Deadan\MFiles\Service\File\Response\DownloadFileResponse;
+use Deadan\MFiles\Service\MFilesGetService;
+use Deadan\MFiles\Service\MFilesRequestInterface;
+use Deadan\MFiles\Service\MFilesResponseInterface;
 
 /**
  * Class DownloadFile
  *
- * @package Herufi\MFiles\Service\File
+ * @package Deadan\MFiles\Service\File
  */
 class DownloadFile extends MFilesGetService
 {
@@ -24,11 +24,11 @@ class DownloadFile extends MFilesGetService
      * @param  MFilesRequestInterface  $request
      *
      * @return MFilesResponseInterface
-     * @throws \Herufi\MFiles\Service\Exception\ClientErrorException
-     * @throws \Herufi\MFiles\Service\Exception\NotFoundException
-     * @throws \Herufi\MFiles\Service\Exception\ServiceException
+     * @throws \Deadan\MFiles\Service\Exception\ClientErrorException
+     * @throws \Deadan\MFiles\Service\Exception\NotFoundException
+     * @throws \Deadan\MFiles\Service\Exception\ServiceException
      *
-     * @throws \Herufi\MFiles\Service\Exception\AccessDeniedException
+     * @throws \Deadan\MFiles\Service\Exception\AccessDeniedException
      */
     public function call(MFilesRequestInterface $request)
     {

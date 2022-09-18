@@ -1,11 +1,11 @@
 <?php
 
-namespace Herufi\MFiles\Model\Folder;
+namespace Deadan\MFiles\Model\Folder;
 
 /**
  * Class MFilesFolderListingColumn
  *
- * @package Herufi\MFiles\Model\Folder
+ * @package Deadan\MFiles\Model\Folder
  */
 class MFilesFolderListingColumn
 {

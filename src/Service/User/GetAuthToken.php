@@ -1,18 +1,18 @@
 <?php
 
-namespace Herufi\MFiles\Service\User;
+namespace Deadan\MFiles\Service\User;
 
-use Herufi\MFiles\Service\Exception\InvalidJsonException;
-use Herufi\MFiles\Service\MFilesPostService;
-use Herufi\MFiles\Service\MFilesRequestInterface;
-use Herufi\MFiles\Service\MFilesResponseInterface;
-use Herufi\MFiles\Service\User\Request\GetAuthTokenRequest;
-use Herufi\MFiles\Service\User\Response\GetAuthTokenResponse;
+use Deadan\MFiles\Service\Exception\InvalidJsonException;
+use Deadan\MFiles\Service\MFilesPostService;
+use Deadan\MFiles\Service\MFilesRequestInterface;
+use Deadan\MFiles\Service\MFilesResponseInterface;
+use Deadan\MFiles\Service\User\Request\GetAuthTokenRequest;
+use Deadan\MFiles\Service\User\Response\GetAuthTokenResponse;
 
 /**
  * Class GetAuthToken
  *
- * @package Herufi\MFiles\Service\User
+ * @package Deadan\MFiles\Service\User
  */
 class GetAuthToken extends MFilesPostService
 {

@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Service;
+namespace Deadan\MFiles\Service;
 
-use Herufi\MFiles\APIHandler;
+use Deadan\MFiles\APIHandler;
 
 /**
  * Class MFilesBaseService
  *
- * @package Herufi\MFiles\Service
+ * @package Deadan\MFiles\Service
  */
 abstract class MFilesBaseService implements MFilesServiceInterface
 {

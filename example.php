@@ -1,7 +1,7 @@
 <?php
 
-use Herufi\MFiles\APIHandler;
-use Herufi\MFiles\MFilesClient;
+use Deadan\MFiles\APIHandler;
+use Deadan\MFiles\MFilesClient;
 
 $server_url = '';
 $username = '';

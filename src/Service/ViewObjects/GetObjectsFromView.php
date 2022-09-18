@@ -1,18 +1,18 @@
 <?php
 
-namespace Herufi\MFiles\Service\ViewObjects;
+namespace Deadan\MFiles\Service\ViewObjects;
 
-use Herufi\MFiles\Service\MFilesGetService;
-use Herufi\MFiles\Service\MFilesRequestInterface;
-use Herufi\MFiles\Service\MFilesResponseInterface;
-use Herufi\MFiles\Service\Object\Parser\ObjectParser;
-use Herufi\MFiles\Service\Object\Response\GetObjectsResponse;
-use Herufi\MFiles\Service\ViewObjects\Request\GetObjectsFromViewRequest;
+use Deadan\MFiles\Service\MFilesGetService;
+use Deadan\MFiles\Service\MFilesRequestInterface;
+use Deadan\MFiles\Service\MFilesResponseInterface;
+use Deadan\MFiles\Service\Object\Parser\ObjectParser;
+use Deadan\MFiles\Service\Object\Response\GetObjectsResponse;
+use Deadan\MFiles\Service\ViewObjects\Request\GetObjectsFromViewRequest;
 
 /**
  * Class GetObjectsFromView
  *
- * @package Herufi\MFiles\Service\ViewObjects
+ * @package Deadan\MFiles\Service\ViewObjects
  */
 class GetObjectsFromView extends MFilesGetService
 {

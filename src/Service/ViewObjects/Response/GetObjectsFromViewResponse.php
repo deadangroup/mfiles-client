@@ -1,9 +1,9 @@
 <?php
 
-namespace Herufi\MFiles\Service\ViewObjects\Response;
+namespace Deadan\MFiles\Service\ViewObjects\Response;
 
-use Herufi\MFiles\Model\Object\MFilesObject;
-use Herufi\MFiles\Service\Response\BaseResponse;
+use Deadan\MFiles\Model\Object\MFilesObject;
+use Deadan\MFiles\Service\Response\BaseResponse;
 
 /**
  * Class GetObjectsFromViewResponse.

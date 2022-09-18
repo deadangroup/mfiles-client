@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Service\Object\Request;
+namespace Deadan\MFiles\Service\Object\Request;
 
-use Herufi\MFiles\Service\MFilesRequestInterface;
+use Deadan\MFiles\Service\MFilesRequestInterface;
 
 /**
  * Class GetObjectsRequest
  *
- * @package Herufi\MFiles\Service\Object\Request
+ * @package Deadan\MFiles\Service\Object\Request
  */
 class GetObjectsRequest implements MFilesRequestInterface
 {

@@ -1,23 +1,23 @@
 <?php
 
-namespace Herufi\MFiles\Service\ViewItems;
+namespace Deadan\MFiles\Service\ViewItems;
 
-use Herufi\MFiles\Model\Folder\MFilesFolderDef;
-use Herufi\MFiles\Model\View\MFilesViewPathInfo;
-use Herufi\MFiles\Service\MFilesGetService;
-use Herufi\MFiles\Service\MFilesRequestInterface;
-use Herufi\MFiles\Service\MFilesResponseInterface;
-use Herufi\MFiles\Service\View\Parser\ViewParser;
-use Herufi\MFiles\Service\ViewItems\Request\GetItemsFromViewRequest;
-use Herufi\MFiles\Service\ViewItems\Response\GetItemsFromViewResponse;
-use Herufi\MFiles\Service\View\Parser\FolderUIStateParser;
-use Herufi\MFiles\Service\View\Parser\ViewModeInfoParser;
+use Deadan\MFiles\Model\Folder\MFilesFolderDef;
+use Deadan\MFiles\Model\View\MFilesViewPathInfo;
+use Deadan\MFiles\Service\MFilesGetService;
+use Deadan\MFiles\Service\MFilesRequestInterface;
+use Deadan\MFiles\Service\MFilesResponseInterface;
+use Deadan\MFiles\Service\View\Parser\ViewParser;
+use Deadan\MFiles\Service\ViewItems\Request\GetItemsFromViewRequest;
+use Deadan\MFiles\Service\ViewItems\Response\GetItemsFromViewResponse;
+use Deadan\MFiles\Service\View\Parser\FolderUIStateParser;
+use Deadan\MFiles\Service\View\Parser\ViewModeInfoParser;
 use stdClass;
 
 /**
  * Class GetItemsFromView
  *
- * @package Herufi\MFiles\Service\ViewItems
+ * @package Deadan\MFiles\Service\ViewItems
  */
 class GetItemsFromView extends MFilesGetService
 {

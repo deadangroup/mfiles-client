@@ -1,13 +1,13 @@
 <?php
 
-namespace Herufi\MFiles\Service\Response;
+namespace Deadan\MFiles\Service\Response;
 
-use Herufi\MFiles\Service\MFilesResponseInterface;
+use Deadan\MFiles\Service\MFilesResponseInterface;
 
 /**
  * Class BaseResponse
  *
- * @package Herufi\MFiles\Service\Response
+ * @package Deadan\MFiles\Service\Response
  */
 abstract class BaseResponse implements MFilesResponseInterface
 {

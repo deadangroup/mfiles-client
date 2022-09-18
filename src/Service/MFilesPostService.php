@@ -1,17 +1,17 @@
 <?php
 
-namespace Herufi\MFiles\Service;
+namespace Deadan\MFiles\Service;
 
 /**
  * Class MFilesPostService
  *
- * @package Herufi\MFiles\Service
+ * @package Deadan\MFiles\Service
  */
 abstract class MFilesPostService extends MFilesBaseService
 {
     /**
-     * @param  \Herufi\MFiles\Service\MFilesRequestInterface  $request
-     * @return \Herufi\MFiles\Service\MFilesResponseInterface
+     * @param  \Deadan\MFiles\Service\MFilesRequestInterface  $request
+     * @return \Deadan\MFiles\Service\MFilesResponseInterface
      */
     public function call(MFilesRequestInterface $request)
     {

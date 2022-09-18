@@ -1,11 +1,11 @@
 <?php
 
-namespace Herufi\MFiles\Model\View;
+namespace Deadan\MFiles\Model\View;
 
 /**
  * Class MFilesView
  *
- * @package Herufi\MFiles\Model\View
+ * @package Deadan\MFiles\Model\View
  */
 class MFilesView
 {
