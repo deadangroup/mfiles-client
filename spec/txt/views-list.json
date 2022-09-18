@@ -1,0 +1,1203 @@
+{
+    "Path": "/",
+    "MoreResults": false,
+    "Items": [
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 5,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "Checked Out to Me"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 7,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "Recently Modified by Me"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 9,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "Assigned to Me"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 14,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "Recently Accessed by Me"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 15,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "Favorites"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 133,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": true,
+                "Depth": 0,
+                "Name": "113 - All Documents"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 142,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "102 - All Locations"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 144,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "91 - All Projects"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 172,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "121 - Templates"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 319,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 1,
+                "Name": "41 -  Registered Documents"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 348,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": true,
+                "Depth": 0,
+                "Name": "81 - General Staff Meetings"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 375,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "42 - SOPs"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 398,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "111 - My documents"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 402,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "31 - CIS Tips and How-to:s"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 405,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "112 - My Leave Plans"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 422,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "53 - Darwish"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 425,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "24 - Meeting Reports"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 426,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "101 - My Field Office"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 448,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "12 - Invoices/VEPOs"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 449,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "03 - TAF Status (All)"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 450,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 2,
+                "Name": "51 - OPS Meeting Reports"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 462,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 1,
+                "Name": "11 - Budget Docs Status (BCP/BRP/BTR/PO)"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 465,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "122 -  All imported"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 487,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "61 - All Signed Contracts (Procurement)"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 489,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "08 - Travel claims"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 519,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "22 - HR Payroll Locals"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 530,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 1,
+                "Name": "23 - HR payrolls (Stefan)"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 531,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 1,
+                "Name": "21 - HR Claims -Last modified- (Stefan)"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 543,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 1,
+                "Name": "All TAFs Departure"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 561,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 1,
+                "Name": "13 - Closed invoices by year and month"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 563,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 2,
+                "Name": "06 - Registered TAFs (Return Date)"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 564,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 2,
+                "Name": "05 - Registered TAFs (Departure Date)"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 566,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 1,
+                "Name": "02 - Archived TAFs/Derogations/6M leaves/Claims"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 573,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 3,
+                "Name": "152- ! TEST View Learning 2 - (Filing plan after 2019)"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 574,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 1,
+                "Name": "10 - HR Derogations"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 575,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 4,
+                "Name": "151 - ! TEST (class/FP/content type/created by)"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 576,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 1,
+                "Name": "07 - 6  month home travel requests"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 580,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "01 - Set My Replacement"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 587,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "00 -----WORKFLOW DOCUMENTS-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 588,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "19 ==============================="
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 589,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "150 ===CIS TEST VIEWS==="
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 590,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "20 ------HR DOCUMENTS-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 591,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "29 ==============================="
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 592,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "30 -----CIS DOCUMENTS-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 593,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "39 ==============================="
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 594,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "40 -----REGISTRY DOCUMENTS-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 595,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "49 ==============================="
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 596,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "50 -----OPS DOCUMENTS-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 597,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "60 -----PROCUREMENT DOCUMENTS-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 598,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "69 ==============================="
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 599,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "79 ==============================="
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 600,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "70 -----SECURITY DOCUMENTS-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 601,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "80 -----HOM DOCUMENTS-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 602,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "89 ==============================="
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 603,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "100 -----MY FIELD OFFICE-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 604,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "90 -----PROJECT DOCUMENTS-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 605,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "110 -----MY DOCUMENTS-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 606,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "99 ==============================="
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 607,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "109 =============================="
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 608,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "120 -----MISCELLANEOUS DOCUMENTS-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 609,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "129 =============================="
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 610,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 1,
+                "Name": "25 - HR Payroll Workflows"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 614,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "32 - Workflows Documentation"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 622,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "131 - GSS BCPs"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 623,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "130 -----GSS DOCUMENTS-----"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 624,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "139==============================="
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 626,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "14 - TAFs Departing Next 2 days"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 627,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "15 - TAFs Arriving Next 2 days"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 628,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "16 - TAFs Departing Today"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 629,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "17 - TAFs Arriving Today"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 632,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "43 - Registered 2021"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 638,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "44 - New Registry 2021"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 642,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "18 - View TAF Log"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 644,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "CIS Purchase Orders"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 647,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 1,
+                "Name": "All TAFs Return"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 651,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "54 - All OPS Meeting Reports - no sorting"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 658,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 2,
+                "Name": "BCP test (FOG only)"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 669,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "33 - View employee data"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 670,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "34 - Start/Stop Refresh TAF Log"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 1,
+            "View": {
+                "ID": 681,
+                "Common": true,
+                "Parent": 0,
+                "ViewCollection": false,
+                "Depth": 0,
+                "Name": "04 - My TAFs"
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 3,
+            "TraditionalFolder": {
+                "Item": 47,
+                "Version": -1,
+                "Deleted": false,
+                "DisplayValue": "Info (N)",
+                "Hidden": false,
+                "VersionType": 1,
+                "ObjectType": -2,
+                "ObjectFlags": 64
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 3,
+            "TraditionalFolder": {
+                "Item": 1871,
+                "Version": -1,
+                "Deleted": false,
+                "DisplayValue": "Unit (U/V)",
+                "Hidden": false,
+                "VersionType": 1,
+                "ObjectType": -2,
+                "ObjectFlags": 64
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 3,
+            "TraditionalFolder": {
+                "Item": 14577,
+                "Version": -1,
+                "Deleted": false,
+                "DisplayValue": "International Info (R)",
+                "Hidden": false,
+                "VersionType": 1,
+                "ObjectType": -2,
+                "ObjectFlags": 64
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 3,
+            "TraditionalFolder": {
+                "Item": 27005,
+                "Version": -1,
+                "Deleted": false,
+                "DisplayValue": "CIS",
+                "Hidden": false,
+                "VersionType": 1,
+                "ObjectType": -2,
+                "ObjectFlags": 64
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 3,
+            "TraditionalFolder": {
+                "Item": 27006,
+                "Version": -1,
+                "Deleted": false,
+                "DisplayValue": "Finance",
+                "Hidden": false,
+                "VersionType": 1,
+                "ObjectType": -2,
+                "ObjectFlags": 64
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 3,
+            "TraditionalFolder": {
+                "Item": 40957,
+                "Version": -1,
+                "Deleted": false,
+                "DisplayValue": "Mogadishu national staff",
+                "Hidden": false,
+                "VersionType": 1,
+                "ObjectType": -2,
+                "ObjectFlags": 64
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 3,
+            "TraditionalFolder": {
+                "Item": 41092,
+                "Version": -1,
+                "Deleted": false,
+                "DisplayValue": "Reading package for newcomers",
+                "Hidden": false,
+                "VersionType": 1,
+                "ObjectType": -2,
+                "ObjectFlags": 64
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 3,
+            "TraditionalFolder": {
+                "Item": 41101,
+                "Version": -1,
+                "Deleted": false,
+                "DisplayValue": "FOG",
+                "Hidden": false,
+                "VersionType": 1,
+                "ObjectType": -2,
+                "ObjectFlags": 64
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 3,
+            "TraditionalFolder": {
+                "Item": 41405,
+                "Version": -1,
+                "Deleted": false,
+                "DisplayValue": "!Old",
+                "Hidden": false,
+                "VersionType": 1,
+                "ObjectType": -2,
+                "ObjectFlags": 64
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 3,
+            "TraditionalFolder": {
+                "Item": 48053,
+                "Version": -1,
+                "Deleted": false,
+                "DisplayValue": "TEST FOLDER",
+                "Hidden": false,
+                "VersionType": 1,
+                "ObjectType": -2,
+                "ObjectFlags": 64
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 3,
+            "TraditionalFolder": {
+                "Item": 48126,
+                "Version": -1,
+                "Deleted": false,
+                "DisplayValue": "INFOSEC",
+                "Hidden": false,
+                "VersionType": 1,
+                "ObjectType": -2,
+                "ObjectFlags": 64
+            },
+            "IsNumberSorting": false
+        }
+    ],
+    "ViewSettingsID": "_vaultroot",
+    "IsMFDContents": false,
+    "IsGroupingEnabled": false,
+    "LevelDefinition": "",
+    "TotalCount": 0,
+    "FolderUIState": {
+        "BottomPaneBarMinimized": false,
+        "HitHighlightingEnabled": true,
+        "ListingUIState": {
+            "Columns": [
+                {
+                    "Name": "Name",
+                    "ID": -1,
+                    "Visible": true,
+                    "Width": 528,
+                    "Flags": 0,
+                    "Position": 0
+                },
+                {
+                    "Name": "Type",
+                    "ID": -2,
+                    "Visible": true,
+                    "Width": 155,
+                    "Flags": 0,
+                    "Position": 1
+                },
+                {
+                    "Name": "Date Modified",
+                    "ID": -14,
+                    "Visible": false,
+                    "Width": 120,
+                    "Flags": 0,
+                    "Position": -1
+                },
+                {
+                    "Name": "Date Created",
+                    "ID": -13,
+                    "Visible": false,
+                    "Width": 120,
+                    "Flags": 0,
+                    "Position": -1
+                },
+                {
+                    "Name": "Path",
+                    "ID": -11,
+                    "Visible": false,
+                    "Width": 230,
+                    "Flags": 0,
+                    "Position": -1
+                },
+                {
+                    "Name": "Size",
+                    "ID": -3,
+                    "Visible": false,
+                    "Width": 60,
+                    "Flags": 0,
+                    "Position": -1
+                },
+                {
+                    "Name": "Accessed by Me",
+                    "ID": 81,
+                    "Visible": false,
+                    "Width": 120,
+                    "Flags": 0,
+                    "Position": -1
+                }
+            ],
+            "ColumnSortings": [
+                {
+                    "ID": -1,
+                    "Index": 0,
+                    "SortAscending": true
+                }
+            ]
+        },
+        "MetadataEditorInRightPane": true,
+        "RelativeBottomPaneHeight": 3911,
+        "RelativeRightPaneWidth": 3911,
+        "RightPaneBarMinimized": false,
+        "ShowBottomPaneBar": false,
+        "ShowRightPaneBar": true
+    },
+    "FolderDefs": []
+}

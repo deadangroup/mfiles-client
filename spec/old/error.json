@@ -1,0 +1,19 @@
+{
+    "Status": 403,
+    "URL": "/objects",
+    "Method": "GET",
+    "Exception": {
+        "Name": "ForbiddenException",
+        "Message": "Token-based authentication failed.",
+        "InnerException": {
+            "Name": "FormatException",
+            "Message": "The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. ",
+            "StackText": ""
+        }
+    },
+    "Stack": "",
+    "Message": "Token-based authentication failed.",
+    "IsLoggedToVault": false,
+    "IsLoggedToApplication": false,
+    "ExceptionName": "ForbiddenException"
+}

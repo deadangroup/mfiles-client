@@ -1,0 +1,26 @@
+{
+    "name": "herufi/mfiles-client",
+    "description": "Client for the M-Files API",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "James Ngugi",
+            "email": "james@herufi.co.ke"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Herufi\\MFiles\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Context\\": "features/Context"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "monolog/monolog": "^1.23|^2.1.1"
+    }
+}

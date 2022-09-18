@@ -1,0 +1,492 @@
+{
+    "Path": "/V543",
+    "MoreResults": false,
+    "Items": [
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2020-01",
+                "HasValue": true,
+                "DisplayValue": "January 2020",
+                "SerializedValue": "2020-01",
+                "DataType": 1,
+                "SortingKey": "2020-01",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2020-02",
+                "HasValue": true,
+                "DisplayValue": "February 2020",
+                "SerializedValue": "2020-02",
+                "DataType": 1,
+                "SortingKey": "2020-02",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2020-03",
+                "HasValue": true,
+                "DisplayValue": "March 2020",
+                "SerializedValue": "2020-03",
+                "DataType": 1,
+                "SortingKey": "2020-03",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2020-04",
+                "HasValue": true,
+                "DisplayValue": "April 2020",
+                "SerializedValue": "2020-04",
+                "DataType": 1,
+                "SortingKey": "2020-04",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2020-05",
+                "HasValue": true,
+                "DisplayValue": "May 2020",
+                "SerializedValue": "2020-05",
+                "DataType": 1,
+                "SortingKey": "2020-05",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2020-06",
+                "HasValue": true,
+                "DisplayValue": "June 2020",
+                "SerializedValue": "2020-06",
+                "DataType": 1,
+                "SortingKey": "2020-06",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2020-07",
+                "HasValue": true,
+                "DisplayValue": "July 2020",
+                "SerializedValue": "2020-07",
+                "DataType": 1,
+                "SortingKey": "2020-07",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2020-08",
+                "HasValue": true,
+                "DisplayValue": "August 2020",
+                "SerializedValue": "2020-08",
+                "DataType": 1,
+                "SortingKey": "2020-08",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2020-09",
+                "HasValue": true,
+                "DisplayValue": "September 2020",
+                "SerializedValue": "2020-09",
+                "DataType": 1,
+                "SortingKey": "2020-09",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2020-10",
+                "HasValue": true,
+                "DisplayValue": "October 2020",
+                "SerializedValue": "2020-10",
+                "DataType": 1,
+                "SortingKey": "2020-10",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2020-11",
+                "HasValue": true,
+                "DisplayValue": "November 2020",
+                "SerializedValue": "2020-11",
+                "DataType": 1,
+                "SortingKey": "2020-11",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2020-12",
+                "HasValue": true,
+                "DisplayValue": "December 2020",
+                "SerializedValue": "2020-12",
+                "DataType": 1,
+                "SortingKey": "2020-12",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2021-01",
+                "HasValue": true,
+                "DisplayValue": "January 2021",
+                "SerializedValue": "2021-01",
+                "DataType": 1,
+                "SortingKey": "2021-01",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2021-02",
+                "HasValue": true,
+                "DisplayValue": "February 2021",
+                "SerializedValue": "2021-02",
+                "DataType": 1,
+                "SortingKey": "2021-02",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2021-03",
+                "HasValue": true,
+                "DisplayValue": "March 2021",
+                "SerializedValue": "2021-03",
+                "DataType": 1,
+                "SortingKey": "2021-03",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2021-04",
+                "HasValue": true,
+                "DisplayValue": "April 2021",
+                "SerializedValue": "2021-04",
+                "DataType": 1,
+                "SortingKey": "2021-04",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2021-05",
+                "HasValue": true,
+                "DisplayValue": "May 2021",
+                "SerializedValue": "2021-05",
+                "DataType": 1,
+                "SortingKey": "2021-05",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2021-06",
+                "HasValue": true,
+                "DisplayValue": "June 2021",
+                "SerializedValue": "2021-06",
+                "DataType": 1,
+                "SortingKey": "2021-06",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2021-07",
+                "HasValue": true,
+                "DisplayValue": "July 2021",
+                "SerializedValue": "2021-07",
+                "DataType": 1,
+                "SortingKey": "2021-07",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2021-08",
+                "HasValue": true,
+                "DisplayValue": "August 2021",
+                "SerializedValue": "2021-08",
+                "DataType": 1,
+                "SortingKey": "2021-08",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2021-09",
+                "HasValue": true,
+                "DisplayValue": "September 2021",
+                "SerializedValue": "2021-09",
+                "DataType": 1,
+                "SortingKey": "2021-09",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2021-10",
+                "HasValue": true,
+                "DisplayValue": "October 2021",
+                "SerializedValue": "2021-10",
+                "DataType": 1,
+                "SortingKey": "2021-10",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2021-11",
+                "HasValue": true,
+                "DisplayValue": "November 2021",
+                "SerializedValue": "2021-11",
+                "DataType": 1,
+                "SortingKey": "2021-11",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2021-12",
+                "HasValue": true,
+                "DisplayValue": "December 2021",
+                "SerializedValue": "2021-12",
+                "DataType": 1,
+                "SortingKey": "2021-12",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2022-01",
+                "HasValue": true,
+                "DisplayValue": "January 2022",
+                "SerializedValue": "2022-01",
+                "DataType": 1,
+                "SortingKey": "2022-01",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2022-02",
+                "HasValue": true,
+                "DisplayValue": "February 2022",
+                "SerializedValue": "2022-02",
+                "DataType": 1,
+                "SortingKey": "2022-02",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2022-03",
+                "HasValue": true,
+                "DisplayValue": "March 2022",
+                "SerializedValue": "2022-03",
+                "DataType": 1,
+                "SortingKey": "2022-03",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        },
+        {
+            "FolderContentItemType": 2,
+            "PropertyFolder": {
+                "Value": "2022-04",
+                "HasValue": true,
+                "DisplayValue": "April 2022",
+                "SerializedValue": "2022-04",
+                "DataType": 1,
+                "SortingKey": "2022-04",
+                "IsNumberSorting": false,
+                "HasAutomaticPermission": false
+            },
+            "IsNumberSorting": false
+        }
+    ],
+    "ViewSettingsID": "V543",
+    "IsMFDContents": false,
+    "IsGroupingEnabled": true,
+    "LevelDefinition": "YearAndMonth( Departure Date )",
+    "TotalCount": 0,
+    "viewPathInfos": [
+        {
+            "ViewID": "/V543",
+            "ViewName": "All TAFs Departure"
+        }
+    ],
+    "FolderUIState": {
+        "BottomPaneBarMinimized": false,
+        "HitHighlightingEnabled": true,
+        "ListingUIState": {
+            "Columns": [
+                {
+                    "Name": "YearAndMonth()",
+                    "ID": -1,
+                    "Visible": true,
+                    "Width": 500,
+                    "Flags": 0,
+                    "Position": 0
+                },
+                {
+                    "Name": "Type",
+                    "ID": -2,
+                    "Visible": true,
+                    "Width": 155,
+                    "Flags": 0,
+                    "Position": 1
+                },
+                {
+                    "Name": "Date Modified",
+                    "ID": -14,
+                    "Visible": false,
+                    "Width": 120,
+                    "Flags": 0,
+                    "Position": -1
+                },
+                {
+                    "Name": "Date Created",
+                    "ID": -13,
+                    "Visible": false,
+                    "Width": 120,
+                    "Flags": 0,
+                    "Position": -1
+                },
+                {
+                    "Name": "Path",
+                    "ID": -11,
+                    "Visible": false,
+                    "Width": 230,
+                    "Flags": 0,
+                    "Position": -1
+                },
+                {
+                    "Name": "Size",
+                    "ID": -3,
+                    "Visible": false,
+                    "Width": 60,
+                    "Flags": 0,
+                    "Position": -1
+                },
+                {
+                    "Name": "Accessed by Me",
+                    "ID": 81,
+                    "Visible": false,
+                    "Width": 120,
+                    "Flags": 0,
+                    "Position": -1
+                }
+            ],
+            "ColumnSortings": [
+                {
+                    "ID": -1,
+                    "Index": 0,
+                    "SortAscending": true
+                }
+            ]
+        },
+        "MetadataEditorInRightPane": true,
+        "RelativeBottomPaneHeight": -1,
+        "RelativeRightPaneWidth": -1,
+        "RightPaneBarMinimized": false,
+        "ShowBottomPaneBar": false,
+        "ShowRightPaneBar": true
+    },
+    "FolderDefs": [
+        {
+            "FolderDefType": 2,
+            "View": 543
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "ErrorCode": "2212",
+    "Status": 404,
+    "URL": "/views/v348/objects",
+    "Method": "GET",
+    "Exception": {
+        "Name": "COMException",
+        "Message": "Not found. 242",
+        "InnerException": {
+            "Name": "MFilesException",
+            "Message": "Not found. 242",
+            "StackText": "Error reference ID: ae31360a-ff41-4aff-b95e-b94ca62c582f",
+            "ErrorCode": "2212"
+        }
+    },
+    "Stack": "Error reference ID: ae31360a-ff41-4aff-b95e-b94ca62c582f",
+    "Message": "Not found. 242",
+    "IsLoggedToVault": true,
+    "IsLoggedToApplication": true,
+    "ExceptionName": "COMException"
+}
